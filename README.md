@@ -11,3 +11,8 @@
 * Arduino UNO
 * 1.3" 128x64 SPI I2C SH1106 OLED Display Module
 * Neo-6M V2 GPS Module
+
+## Files
+* GPS_OLED.ino - Arduino driver program
+* Servo Bevel Wheel Gear.stl / Servo Bevel Pinon Gear.stl - 3D models for gears
+* Enclosure Assembly.3mf - 3D model for servo motor enclosure
