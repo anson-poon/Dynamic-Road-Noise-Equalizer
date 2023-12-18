@@ -23,6 +23,7 @@ Enhances driving safety by eliminating the need for taking the eyes off the road
 * Enclosure Assembly.3mf - 3D model for servo motor enclosure
 
 
+
 Assemble Guide
 ![Installation Isometric](https://github.com/anson-poon/Dynamic-Road-Noise-Equalizer/assets/75619539/ad5bdb2a-4c47-4796-9582-ef9677e20962)
 
