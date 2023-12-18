@@ -9,8 +9,8 @@
 ## Goal
 Enhances driving safety by eliminating the need for taking the eyes off the road to manually adjust audio volume to compensate for road noise during driving, which is particularly useful for retrofitting on older vehicles with limited noise isolation. 
 
-## Parts
-* Arduino UNO
+## Parts Used
+* Arduino UNO R3
 * 1.3" 128x64 SPI I2C SH1106 OLED Display Module
 * Neo-6M V2 GPS Module
 * SM-S2309S Servo motor
