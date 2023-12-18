@@ -7,10 +7,13 @@
 * Addition of a diagnostics system through an LCD and a GPS signal sensor to display real-time GPS information. 
 * Custom 3D printed components to integrate equalizer system to vehicle dashboard. 
 
-## Technologies and Parts
+## Parts
 * Arduino UNO
 * 1.3" 128x64 SPI I2C SH1106 OLED Display Module
 * Neo-6M V2 GPS Module
+* 220-ohm resistors x2
+* green/red LEDs
+* SM-S2309S Servo motor
 
 ## Files
 * GPS_OLED.ino - Arduino driver program
