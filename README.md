@@ -7,7 +7,7 @@
 * Custom 3D printed components to integrate equalizer system to vehicle dashboard.
 
 ## Goal
-Enhances driving safety by eliminating the need for taking eyes off the road to manually adjust volume to compensate for road noise during driving, particularly useful for retrofitting on older vehicles with limited noise isolation. 
+Enhances driving safety by eliminating the need for taking the eyes off the road to manually adjust audio volume to compensate for road noise during driving, which is particularly useful for retrofitting on older vehicles with limited noise isolation. 
 
 ## Parts
 * Arduino UNO
