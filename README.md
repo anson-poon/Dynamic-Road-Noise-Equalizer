@@ -13,9 +13,9 @@ Enhances driving safety by eliminating the need for taking the eyes off the road
 * Arduino UNO
 * 1.3" 128x64 SPI I2C SH1106 OLED Display Module
 * Neo-6M V2 GPS Module
+* SM-S2309S Servo motor
 * 220-ohm resistors x2
 * green/red LEDs
-* SM-S2309S Servo motor
 
 ## Files
 * GPS_OLED.ino - Arduino driver program
