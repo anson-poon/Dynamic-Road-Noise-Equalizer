@@ -20,7 +20,7 @@ Enhances driving safety by eliminating the need for taking the eyes off the road
 ## Files
 * GPS_OLED.ino - Arduino driver program
 * Servo Bevel Wheel Gear.stl / Servo Bevel Pinon Gear.stl - 3D models for gears
-* Enclosure Assembly.3mf - 3D model for servo motor enclosure
+* Enclosure Assembly.3mf - 3D model for snap-fit servo motor enclosure
 
 <br>
 
