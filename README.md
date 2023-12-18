@@ -22,16 +22,14 @@ Enhances driving safety by eliminating the need for taking the eyes off the road
 * Servo Bevel Wheel Gear.stl / Servo Bevel Pinon Gear.stl - 3D models for gears
 * Enclosure Assembly.3mf - 3D model for servo motor enclosure
 
-Assemble Guide
+<br>
+
+Isometric Assembly (exploded-view)
 ![Installation Isometric](https://github.com/anson-poon/Dynamic-Road-Noise-Equalizer/assets/75619539/ad5bdb2a-4c47-4796-9582-ef9677e20962)
 
-&nbsp;
-&nbsp;
 Wiring Schematic (w/breadboard)
 ![Breadboard Wiring Schematic](https://github.com/anson-poon/Dynamic-Road-Noise-Equalizer/assets/75619539/46167d5c-4750-48a5-a66e-4267710476cf)
 
-&nbsp;
-&nbsp;
 Wiring Schematic (net)
 ![Net Wiring Schematic](https://github.com/anson-poon/Dynamic-Road-Noise-Equalizer/assets/75619539/4cc4920d-4ce5-4468-8241-81d79541acd3)
 
